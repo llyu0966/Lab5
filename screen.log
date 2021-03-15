@@ -1,0 +1,204 @@
+Script started on Thu Mar 11 23:29:06 2021
+[1m[7m%[27m[1m[0m                                                                                         ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Lab5[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Lab5 % [K[?2004hlls[?2004l
+DOITT_SUBWAY_STATION_01_13SEPT2010.csv	LineKVP.java
+LineKVP$1.class				screen.log
+LineKVP.class
+[1m[7m%[27m[1m[0m                                                                                         ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Lab5[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Lab5 % [K[?2004hls/Users/linliyu/Downloads/netbeans/bin/netbeans ; exit;[54Dssh liy[3C@146.245.252.31                             [29D[25Dman git                  [18Dwhatis git[10Dman java  [8Dwhatis java[11Dman awk    what is awkis subversion[17Dman[3P[11C   [10Dwget      subversion[14Dwhatis subversion[13D is awk      [11Dman awk    whatis java[11Dman java   [8Dwhatis git[10Dman git   ssh liylin@146.245.252.31                      s  jjave a LineKVP >> OU utput.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                         ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Lab5[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Lab5 % [K[?2004hmmore OUT  O UT  utput.txt[?2004l
+[?1h=The A Line has  66 stations.
+The 4 Line has  47 stations.
+The N Line has  46 stations.
+The B Line has  45 stations.
+The F Line has  45 stations.
+The R Line has  45 stations.
+The 5 Line has  45 stations.
+The D Line has  41 stations.
+The C Line has  40 stations.
+The 6 Line has  39 stations.
+The M Line has  36 stations.
+The Q Line has  34 stations.
+The E Line has  32 stations.
+The J Line has  30 stations.
+The 6 Express Line has  30 stations.
+The L Line has  24 stations.
+The G Line has  21 stations.
+The 7 Line has  21 stations.
+The Z Line has  20 stations.
+The 1 Line has  20 stations.
+The S Line has  19 stations.
+The 2 Line has  16 stations.
+The 3 Line has  15 stations.
+[7mOutput.txt[27m[K[KThe 7 Express Line has  11 stations.
+:[K[K[HMThe A Line has  66 stations.
+[24;1H[K:[K[K[?1l>[1m[7m%[27m[1m[0m                                                                                         ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Lab5[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Lab5 % [K[?2004hmore Output.txt[15Djava LineKVP >> Output.txt            [?2004l
+The A Line has  66 stations.
+The 4 Line has  47 stations.
+The N Line has  46 stations.
+The B Line has  45 stations.
+The F Line has  45 stations.
+The R Line has  45 stations.
+The 5 Line has  45 stations.
+The D Line has  41 stations.
+The C Line has  40 stations.
+The 6 Line has  39 stations.
+The M Line has  36 stations.
+The Q Line has  34 stations.
+The E Line has  32 stations.
+The J Line has  30 stations.
+The 6 Express Line has  30 stations.
+The L Line has  24 stations.
+The G Line has  21 stations.
+The 7 Line has  21 stations.
+The Z Line has  20 stations.
+The 1 Line has  20 stations.
+The S Line has  19 stations.
+The 2 Line has  16 stations.
+The 3 Line has  15 stations.
+The 7 Express Line has  11 stations.
+The W Line has  1 stations.
+
+The average number of stations per Line is: 31
+
+The Lines with stations more than average:
+The A Line has  66 stations.
+The B Line has  45 stations.
+The C Line has  40 stations.
+The D Line has  41 stations.
+The E Line has  32 stations.
+The F Line has  45 stations.
+The M Line has  36 stations.
+The N Line has  46 stations.
+The Q Line has  34 stations.
+The R Line has  45 stations.
+The 4 Line has  47 stations.
+The 5 Line has  45 stations.
+The 6 Line has  39 stations.
+
+The Lines with stations less than average:
+The 1 Line has  20 stations.
+The 2 Line has  16 stations.
+The S Line has  19 stations.
+The 3 Line has  15 stations.
+The G Line has  21 stations.
+The W Line has  1 stations.
+The 7 Line has  21 stations.
+The J Line has  30 stations.
+The Z Line has  20 stations.
+The 7 Express Line has  11 stations.
+The L Line has  24 stations.
+The 6 Express Line has  30 stations.
+[1m[7m%[27m[1m[0m                                                                                         ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Lab5[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Lab5 % [K[?2004hvvim Output.txt[?2004l
+[?1049h[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[22;2t[22;1t[27m[29m[m[H[2J[?25l[24;1H"Output.txt" 56L, 1616C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;1HThe A Line has  66 stations.
+The 4 Line has  47 stations.
+The N Line has  46 stations.
+The B Line has  45 stations.
+The F Line has  45 stations.
+The R Line has  45 stations.
+The 5 Line has  45 stations.
+The D Line has  41 stations.
+The C Line has  40 stations.
+The 6 Line has  39 stations.
+The M Line has  36 stations.
+The Q Line has  34 stations.
+The E Line has  32 stations.
+The J Line has  30 stations.
+The 6 Express Line has  30 stations.
+The L Line has  24 stations.
+The G Line has  21 stations.
+The 7 Line has  21 stations.
+The Z Line has  20 stations.
+The 1 Line has  20 stations.
+The S Line has  19 stations.
+The 2 Line has  16 stations.
+The 3 Line has  15 stations.[1;1H[?25h
+
+
+
+
+
+
+
+[8;1H[7;1H[6;1H[5;1H[4;1H[3;1H[2;1H[1;1H
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[17;1H[16;1H[15;1H[14;1H[13;1H[12;1H[11;1H[10;1H[9;1H[?25l[24;1H[K[24;1H:[?25hq![?25l[?2004l[>4;m[23;2t[23;1t[24;1H[K[24;1H[?2004l[?1l>[?25h[>4;m[?1049l[1m[7m%[27m[1m[0m                                                                                         ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Lab5[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Lab5 % [K[?2004h[7m$ git init -b main[27m[18D[27m$[27m [27mg[27mi[27mt[27m [27mi[27mn[27mi[27mt[27m [27m-[27mb[27m [27mm[27ma[27mi[27mn$[P[16C [17D[P[16C [17D[?2004l
+Initialized empty Git repository in /Users/linliyu/Desktop/Lab5/.git/
+[1m[7m%[27m[1m[0m                                                                                         ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Lab5[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Lab5 % [K[?2004hgit init -b main[?2004l
+warning: re-init: ignored --initial-branch=main
+Reinitialized existing Git repository in /Users/linliyu/Desktop/Lab5/.git/
+[1m[7m%[27m[1m[0m                                                                                         ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Lab5[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Lab5 % [K[?2004h[7mgit add .[27m[9D[27mg[27mi[27mt[27m [27ma[27md[27md[27m [27m.[?2004l
+[1m[7m%[27m[1m[0m                                                                                         ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Lab5[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Lab5 % [K[?2004hggit remote add origin [7mhttps://github.com/llyu0966/Lab5.gi[7mt[27m[K[A[53C[27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m/[27ml[27ml[27my[27mu[27m0[27m9[27m6[27m6[27m/[27mL[27ma[27mb[27m5[27m.[27mg[27mi [?2004l
+[1m[7m%[27m[1m[0m                                                                                         ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Lab5[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Lab5 % [K[?2004hggit remote -v[?2004l
+origin	https://github.com/llyu0966/Lab5.gi (fetch)
+origin	https://github.com/llyu0966/Lab5.gi (push)
+[1m[7m%[27m[1m[0m                                                                                         ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Lab5[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Lab5 % [K[?2004hggit pust h -u origin main[?2004l
+error: src refspec main does not match any
+[31merror: failed to push some refs to 'https://github.com/llyu0966/Lab5.gi'
+[m[1m[7m%[27m[1m[0m                                                                                         ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Lab5[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Lab5 % [K[?2004hlls[?2004l
+DOITT_SUBWAY_STATION_01_13SEPT2010.csv	LineKVP.java
+LineKVP$1.class				Output.txt
+LineKVP.class				screen.log
+[1m[7m%[27m[1m[0m                                                                                         ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Lab5[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Lab5 % [K[?2004h[7mecho "# Lab5" >> README.md[27m
+[7mgit init[27m[K
+[7mgit add README.md[27m[K
+[7mgit commit -m "first commit"[27m[K
+[7mgit branch -M main[27m[K
+[7mgit remote add origin https://github.com/llyu0966/Lab5.git[27m[K
+[7mgit push -u origin main[27m[K[6A[9C[27me[27mc[27mh[27mo[27m [27m"[27m#[27m [27mL[27ma[27mb[27m5[27m"[27m [27m>[27m>[27m [27mR[27mE[27mA[27mD[27mM[27mE[27m.[27mm[27md[1B[27mg[27mi[27mt[27m [27mi[27mn[27mi[27mt[1B[27mg[27mi[27mt[27m [27ma[27md[27md[27m [27mR[27mE[27mA[27mD[27mM[27mE[27m.[27mm[27md[1B[27mg[27mi[27mt[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m [27m-[27mm[27m [27m"[27mf[27mi[27mr[27ms[27mt[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m"[1B[27mg[27mi[27mt[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m [27m-[27mM[27m [27mm[27ma[27mi[27mn[1B[27mg[27mi[27mt[27m [27mr[27me[27mm[27mo[27mt[27me[27m [27ma[27md[27md[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m/[27ml[27ml[27my[27mu[27m0[27m9[27m6[27m6[27m/[27mL[27ma[27mb[27m5[27m.[27mg[27mi[27mt[1B[27mg[27mi[27mt[27m [27mp[27mu[27ms[27mh[27m [27m-[27mu[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mm[27ma[27mi[27mn[?2004l
+Reinitialized existing Git repository in /Users/linliyu/Desktop/Lab5/.git/
+[main (root-commit) ddf76eb] first commit
+ 7 files changed, 799 insertions(+)
+ create mode 100644 DOITT_SUBWAY_STATION_01_13SEPT2010.csv
+ create mode 100644 LineKVP$1.class
+ create mode 100644 LineKVP.class
+ create mode 100644 LineKVP.java
+ create mode 100644 Output.txt
+ create mode 100644 README.md
+ create mode 100644 screen.log
+error: remote origin already exists.
+remote: Repository not found.
+fatal: repository 'https://github.com/llyu0966/Lab5.gi/' not found
+[1m[7m%[27m[1m[0m                                                                                         ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Lab5[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Lab5 % [K[?2004hlls[?2004l
+DOITT_SUBWAY_STATION_01_13SEPT2010.csv	Output.txt
+LineKVP$1.class				README.md
+LineKVP.class				screen.log
+LineKVP.java
+[1m[7m%[27m[1m[0m                                                                                         ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Lab5[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Lab5 % [K[?2004h[7mecho "# Lab5" >> README.md[27m
+[7mgit init[27m[K
+[7mgit add README.md[27m[K
+[7mgit commit -m "first commit"[27m[K
+[7mgit branch -M main[27m[K
+[7mgit remote add origin https://github.com/llyu0966/Lab5.git[27m[K
+[7mgit push -u origin main[27m[K[6A[9C[27me[27mc[27mh[27mo[27m [27m"[27m#[27m [27mL[27ma[27mb[27m5[27m"[27m [27m>[27m>[27m [27mR[27mE[27mA[27mD[27mM[27mE[27m.[27mm[27md[1B[27mg[27mi[27mt[27m [27mi[27mn[27mi[27mt[1B[27mg[27mi[27mt[27m [27ma[27md[27md[27m [27mR[27mE[27mA[27mD[27mM[27mE[27m.[27mm[27md[1B[27mg[27mi[27mt[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m [27m-[27mm[27m [27m"[27mf[27mi[27mr[27ms[27mt[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m"[1B[27mg[27mi[27mt[27m [27mb[27mr[27ma[27mn[27mc[27mh[27m [27m-[27mM[27m [27mm[27ma[27mi[27mn[1B[27mg[27mi[27mt[27m [27mr[27me[27mm[27mo[27mt[27me[27m [27ma[27md[27md[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m/[27ml[27ml[27my[27mu[27m0[27m9[27m6[27m6[27m/[27mL[27ma[27mb[27m5[27m.[27mg[27mi[27mt[1B[27mg[27mi[27mt[27m [27mp[27mu[27ms[27mh[27m [27m-[27mu[27m [27mo[27mr[27mi[27mg[27mi[27mn[27m [27mm[27ma[27mi[27mn[?2004l
+Reinitialized existing Git repository in /Users/linliyu/Desktop/Lab5/.git/
+[main 0416908] first commit
+ 1 file changed, 1 insertion(+)
+error: remote origin already exists.
+remote: Repository not found.
+fatal: repository 'https://github.com/llyu0966/Lab5.gi/' not found
+[1m[7m%[27m[1m[0m                                                                                         ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Lab5[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Lab5 % [K[?2004hggit add .[?2004l
+[1m[7m%[27m[1m[0m                                                                                         ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Lab5[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Lab5 % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                         ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Lab5[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Lab5 % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                         ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Lab5[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Lab5 % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                         ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Lab5[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Lab5 % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                         ]7;file://Lins-MacBook-Pro.local/Users/linliyu/desktop/Lab5[0m[27m[24m[Jlinliyu@Lins-MacBook-Pro Lab5 % [K[?2004heexit[?2004l
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done on Thu Mar 11 23:46:27 2021

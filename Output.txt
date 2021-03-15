@@ -1,0 +1,56 @@
+The A Line has  66 stations.
+The 4 Line has  47 stations.
+The N Line has  46 stations.
+The B Line has  45 stations.
+The F Line has  45 stations.
+The R Line has  45 stations.
+The 5 Line has  45 stations.
+The D Line has  41 stations.
+The C Line has  40 stations.
+The 6 Line has  39 stations.
+The M Line has  36 stations.
+The Q Line has  34 stations.
+The E Line has  32 stations.
+The J Line has  30 stations.
+The 6 Express Line has  30 stations.
+The L Line has  24 stations.
+The G Line has  21 stations.
+The 7 Line has  21 stations.
+The Z Line has  20 stations.
+The 1 Line has  20 stations.
+The S Line has  19 stations.
+The 2 Line has  16 stations.
+The 3 Line has  15 stations.
+The 7 Express Line has  11 stations.
+The W Line has  1 stations.
+
+The average number of stations per Line is: 31
+
+The Lines with stations more than average:
+The A Line has  66 stations.
+The B Line has  45 stations.
+The C Line has  40 stations.
+The D Line has  41 stations.
+The E Line has  32 stations.
+The F Line has  45 stations.
+The M Line has  36 stations.
+The N Line has  46 stations.
+The Q Line has  34 stations.
+The R Line has  45 stations.
+The 4 Line has  47 stations.
+The 5 Line has  45 stations.
+The 6 Line has  39 stations.
+
+The Lines with stations less than average:
+The 1 Line has  20 stations.
+The 2 Line has  16 stations.
+The S Line has  19 stations.
+The 3 Line has  15 stations.
+The G Line has  21 stations.
+The W Line has  1 stations.
+The 7 Line has  21 stations.
+The J Line has  30 stations.
+The Z Line has  20 stations.
+The 7 Express Line has  11 stations.
+The L Line has  24 stations.
+The 6 Express Line has  30 stations.
